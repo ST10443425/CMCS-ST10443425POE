@@ -1,0 +1,23 @@
+﻿Build started at 2:36 PM...
+1>------ Build started: Project: CMCS, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Controllers\HomeController.cs(4,7,4,11): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(1,8,1,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(2,8,2,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(1,8,1,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(2,8,2,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(1,8,1,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(2,8,2,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(1,8,1,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(2,8,2,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(1,8,1,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(2,8,2,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(1,8,1,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(2,8,2,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(1,8,1,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\_ViewImports.cshtml(2,8,2,12): error CS0246: The type or namespace name 'CMCS' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\Views\Shared\Error.cshtml(1,8,1,22): error CS0246: The type or namespace name 'ErrorViewModel' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\RC_Student_lab\source\repos\CMCS\obj\Debug\net8.0\Microsoft.CodeAnalysis.Razor.Compiler\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Shared_Error_cshtml.g.cs(116,71,116,85): error CS0246: The type or namespace name 'ErrorViewModel' could not be found (are you missing a using directive or an assembly reference?)
+1>Done building project "CMCS.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:36 PM and took 00.978 seconds ==========
